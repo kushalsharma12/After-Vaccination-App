@@ -1,5 +1,4 @@
 # After-Vaccination-App
-Made for the Hackathon Badger Hacks 2021
 
 Inspiration- 🙈🙈
 
